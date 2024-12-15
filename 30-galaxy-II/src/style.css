@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,
+html {
+	height: 100dvh;
+	width: 100%;
+	background: black;
+}
+
+.webgl {
+	height: 100%;
+	width: 100%;
+}
